@@ -1,4 +1,4 @@
-# falcon-tutorials
+# falcon-snippets
 
 ## Table of contents
 - [Overview](#Overview)
